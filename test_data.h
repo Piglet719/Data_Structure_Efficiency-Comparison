@@ -1,0 +1,1 @@
+void generate_test_data(int *test_data, int N);
